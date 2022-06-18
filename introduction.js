@@ -4,4 +4,4 @@ Nome: Evelyn Laura Alves de Souza Costa
 INF3A 
 */
 
-onsole.log('hello')
+console.log('hello')
